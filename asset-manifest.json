@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.153726df.css",
+    "main.js": "/static/js/main.2fed9915.js",
+    "static/media/sampahtutupbotol.svg": "/static/media/sampahtutupbotol.0c1a67e23dbdbf572753d8f23119fdab.svg",
+    "static/media/mapLocate.png": "/static/media/mapLocate.fcc39201fc5a359af69c.png",
+    "static/media/BatteriesBack.png": "/static/media/BatteriesBack.15f9d45c46f28c032db6.png",
+    "static/media/RecycleBackground1.png": "/static/media/RecycleBackground1.c2ed98746473aef029a0.png",
+    "static/media/ElectronicsBack.png": "/static/media/ElectronicsBack.ec4ede987f86e69ca921.png",
+    "static/media/PaintBack.png": "/static/media/PaintBack.85efe38e2d42cdc12aa2.png",
+    "static/media/us.jpg": "/static/media/us.cfbb830386037b09a728.jpg",
+    "static/media/articlebruh.jpeg": "/static/media/articlebruh.e5000fa49977b5691a70.jpeg",
+    "static/media/OpenSans-ExtraBold.ttf": "/static/media/OpenSans-ExtraBold.8dafb2ac05778278072a.ttf",
+    "static/media/OpenSans-Light.ttf": "/static/media/OpenSans-Light.3d5923f94fc319b5652a.ttf",
+    "static/media/locateus2.jpg": "/static/media/locateus2.6e21d3c805ac359f1ffb.jpg",
+    "static/media/Raleway-Light.ttf": "/static/media/Raleway-Light.b1f782b7717d75963d4a.ttf",
+    "static/media/Raleway-Black.ttf": "/static/media/Raleway-Black.f8326789442b4f02f449.ttf",
+    "static/media/Raleway-Bold.ttf": "/static/media/Raleway-Bold.cefd37fb7d1d62c51b20.ttf",
+    "static/media/Raleway-Regular.ttf": "/static/media/Raleway-Regular.c268e80ba67c4a294054.ttf",
+    "static/media/Raleway-Thin.ttf": "/static/media/Raleway-Thin.d1f120588966cbbaffd9.ttf",
+    "static/media/E-waste3.jpg": "/static/media/E-waste3.35c371ca5258dcd7bdff.jpg",
+    "static/media/Recycle_Ontario.png": "/static/media/Recycle_Ontario.65865cf28e8808478c16.png",
+    "static/media/Existence-Light.otf": "/static/media/Existence-Light.3044679055fab1958472.otf",
+    "static/media/trashmap.svg": "/static/media/trashmap.7d474ca1430fd4198dc1928f32a2630d.svg",
+    "static/media/rewardcuy.jpg": "/static/media/rewardcuy.24d5f3f98191e5d7b97f.jpg",
+    "static/media/computer_Art.jpg": "/static/media/computer_Art.61c277930d4b5b91883d.jpg",
+    "index.html": "/index.html",
+    "main.153726df.css.map": "/static/css/main.153726df.css.map",
+    "main.2fed9915.js.map": "/static/js/main.2fed9915.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.153726df.css",
+    "static/js/main.2fed9915.js"
+  ]
+}
